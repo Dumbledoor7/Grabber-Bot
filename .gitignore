@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+history.db
+.env -e venv/
+__pycache__/
+*.pyc
+history.db
+.env
